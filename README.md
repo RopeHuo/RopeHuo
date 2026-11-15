@@ -1,6 +1,6 @@
 # Hi, I'm RopeHuo 👋
 
-软件工程师，8 年经验，现在北京工作。方向：前端工程化、AI Agent、全栈（Node.js）。
+软件工程师，8 年经验，现在北京工作。方向：前端、AI、全栈。
 
 [个人网站](https://ropehuo.github.io/) · [博客园](https://cnblogs.com/rope) · [Email](mailto:RopeHuo@163.com)
 
